@@ -1,0 +1,13 @@
+1.. **ISA** - (Instruction Set Architecture or simply Computer Architecture ) In computer science, an instruction set architecture (ISA), also called computer architecture, is an abstract model of a computer.
+2.. **CISC** - (Complex Instruction Set Computer) The fundamental goal of CISC is that a single instruction will handle all evaluating, loading,
+    and storing operations, similar to how a multiplication command will handle evaluating, loading, and storing data, which is why it’s complicated.
+3.. **RISC** - The fundamental goal of RISC is to make hardware simpler by employing an instruction set that consists of only a few basic steps used for 
+     evaluating, loading, and storing operations. A load command loads data but a store command stores data.
+4.. **ARM** - (Advanced RISC Machines) An Arm processor is one of a family of central processing units (CPUs) based
+      on the reduced instruction set computer (RISC) architecture for computer processors. [Closed Source]
+5.. **RISC-V** - RISC-V is an open standard instruction set architecture based on established reduced instruction set computer principles.
+       Unlike most other ISA designs, RISC-V is provided under royalty-free open-source licenses. [Open Source]
+6.. **KERNEL** - A kernel is the core component of an operating system. Using interprocess communication and system calls, 
+     it acts as a bridge between applications and the data processing performed at the hardware level.
+7.. **HCL**
+8.. **
