@@ -13,4 +13,6 @@
 8.. **Cilium** - Cilium is a highly scalable Kubernetes Container Network Interface (CNI). It provides cloud-native networking connectivity, 
      security, and observability for container-based workloads, such as in Kubernetes and Docker. It provides visibility and control over network traffic, and offers advanced security features.
 9.. **Proxmox** - Proxmox Virtual Environment (Proxmox VE) is an open-source server management platform for enterprise virtualization
-10.. **
+10.. **XEN** - Xen is a free and open-source hypervisor that allows multiple operating systems to run on the same hardware at the same time. Xen inserts a virtualization layer between the system hardware and the virtual machines. 
+      Xen is a type-1 hypervisor, which means it can be installed directly on hardware without the need for a host operating system
+11..  
