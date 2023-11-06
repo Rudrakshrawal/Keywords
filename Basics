@@ -79,7 +79,8 @@ https://images.app.goo.gl/hBjbh4NoZL3UuqMq9
 
 25.. **Iteration** -  a sequence of instructions or code being repeated until a specific end result is achieved.
 
-26.. **
+26.. **Iterables** - Iterable is an object which can be looped over or iterated over with the help of a for loop. Objects like lists, tuples, sets, dictionaries, strings, etc.
+                     are called iterables. In short and simpler terms, iterable is anything that you can loop over.
 
 
 
