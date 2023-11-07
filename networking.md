@@ -1,4 +1,4 @@
-   **Cloud computing can be specified**
+  **Cloud computing can be specified**
    -----------------------
 **| NETWORKING |**
 --------------------------  
@@ -81,23 +81,11 @@
 - *Route 53* is a highly available and scalable cloud DNS web service. It provides a reliable and cost-effective way for businesses and developers to route their end users to internet applications.Route 53 Traffic Flow makes it easy for you to manage traffic globally through a variety of routing types to create low-latency, fault-tolerant architectures.
   ![image](https://github.com/Rudrakshrawal/Keywords/assets/144530387/67a62547-15b0-43fa-992a-30aa8aea881b)
 
-  
-
-
-
-
-
 # Computer Architecture Network
 *physical and logical design of the software, hardware, protocols, and media of the transmission of data*
 - P2P(peer to peer)
 - Client Server Network
-
-
-
-
-
-
-------
+---
 
 
 - <^>NTP- Network Time Protocol (NTP) is an internet protocol that synchronizes computer clock time sources in a network. NTP is one of the oldest parts of the TCP/IP suite. It runs on User Datagram Protocol (UDP), which in turn runs on IP.
@@ -106,5 +94,27 @@
 ![image](https://github.com/Rudrakshrawal/Keywords/assets/144530387/4d2d5401-cb88-47c3-bf14-14adf5cfe3a9)
 
 
+-----
+- *Subnetting**-Subnetting is a method of dividing a single physical network into logical sub-networks, also known as subnets.
+- *SSO*-Single sign-on (SSO) is a system that allows users to access multiple applications and services with just one set of login credentials. SSO works by authenticating a user's identity once and then granting access to all of the applications and services that the user is authorized to access.
+- Isolation - An isolated local network consists of servers that are connected in an environment which has no connection to any other network. In this model, there is zero network connectivity to a larger internal network or the Internet.
+- VPN :(Virtual Private Network)a mechanism for creating a secure connection between a computing device and a computer network, or between two networks, using an insecure communication medium such as the public Internet. 
+- - Site to site VPN-A site-to-site virtual private network (VPN) is a way to connect local area networks (LANs) in multiple locations across the public internet. It allows employees in different sites to securely share resources and information.![image](https://github.com/Rudrakshrawal/Keywords/assets/144530387/d80db55a-636c-4dbe-8234-4e7f5a1d6e13)
+  - Client to site VPN(or Remote Access)-A client-to-site VPN (Virtual Private Network) is a type of VPN that connects a single device, such as a laptop or smartphone, to a remote network, such as a corporate or cloud network.![image](https://github.com/Rudrakshrawal/Keywords/assets/144530387/b0ce9d43-fd19-4669-9e75-7d50a3aa9992)
+  - Cloud VPN:A Cloud VPN is a virtual private network that allows users to securely connect to a cloud-based infrastructure or service. It uses the internet as the primary transport medium to connect the remote users to the cloud-based resources. 
+![image](https://github.com/Rudrakshrawal/Keywords/assets/144530387/cc6672a8-1224-4ad9-bd0c-a68f704b4cd2)
+  - SSL Vpn(Secure Socket Layer): It allows remote users to securely access a private network by establishing an encrypted tunnel between the user’s device and the VPN server.
+![image](https://github.com/Rudrakshrawal/Keywords/assets/144530387/2a7dcb74-b795-4743-8f38-2bcd21ecf8c6)
+----
+#EXTRAS BUT IMPORTANT
+- TPM and HSM - Trusted Platform Module (TPM) and Hardware Security Module (HSM) are both security components in cybersecurity. TPM focuses on securing the platform and ensuring system integrity, while HSM specializes in cryptographic key management and secure cryptographic operations.
+- TPM enabling-A TPM (Trusted Platform Module) is a chip on your motherboard that can encrypt an entire laptop or desktop disk. It's used to improve the security of your PC.
+- PING(Packet InterNet Groper):Ping is a computer network administration software utility that tests the network connectivity between two systems. It is used to determine the communication latency, or the amount of time it takes for data to travel between two devices or across a network.
+- SCA(Side channel attack)-A side-channel attack (SCA) is a security exploit that attempts to extract secrets from a chip or a system. SCAs are based on extra information that can be gathered because of the fundamental way a computer protocol or algorithm is implemented
+- IoT-The Internet of Things (IoT) is a network of connected devices that exchange data with other IoT devices and the cloud. IoT devices are physical objects that are embedded with sensors, software, and other technologies.
+- GrapheneOS- GrapheneOS is a custom, open-source operating system (OS) that focuses on privacy and security. It's based on Android and is compatible with Android apps.
+- BOSS- Bharat Operating System Solutions (BOSS) is an open-source operating system (OS) developed by the Centre for Development of Advanced Computing (C-DAC) in India. 
 
-  
+
+
+
