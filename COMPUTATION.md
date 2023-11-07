@@ -1,6 +1,18 @@
                                         |COMPUTATION|
                 
-              
+-  cpu :
+- - Control unit (CU): directs the flow of instructions and data
+- -  - Arithmetic logic unit (ALU): executes arithmetic and logical operations
+- - - Registers: stores temporary data and intermediate results
+- - - Primary storage: holds the data and programs that are currently in use
+- - - Internal bus: connects the CPU components and transfers data between them
+-------------
+- dpu  : a programmable computer processor that integrates a CPU with network interface hardware. DPUs are also known as "IPUs (infrastructure processing units) or "SmartNICs"
+-------------
+- gpu : Graphics Processing Unit (GPU) is a chip that renders graphics for display on an electronic device.GPUs are designed to accelerate computer graphics and image processing
+-------------------
+- FGPA- FGPA stands for field-programmable gate array. It's a type of integrated circuit that can be programmed or reprogrammed after manufacturing.FPGAs are versatile and can be configured to perform a wide range of digital logic functions.
+--------------------------
 - HOST: A network host is a computer or other device connected to a computer network.
 - - BARE METAL: In computer networking, a bare-metal server is a physical computer server that is used by one consumer, or tenant, only.(server withno os)
 - - HOSTED: Server with an OS
@@ -18,6 +30,6 @@
   - LXC : Linux Containers (LXC) is an operating-system-level virtualization method for running multiple isolated Linux systems on a control host using a single Linux kernel
  - ORCHESTRATOR : In system administration, orchestration is the automated configuring, coordinating, and managing of computer systems and software(CONTAINERS in simple words)
  - - K8S(KUBERNETES) : Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management.
-   - EKS
-   - ECS
+   - EKS : Elastic Kubernetes service
+   - ECS ; Elastic Containers Service
    - 
