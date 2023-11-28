@@ -71,7 +71,8 @@
                  This translate source code from a high-level programming language to a low-level programming language to create an executable program.
                   {Used in java,c++,Go,c#}
 
-https://images.app.goo.gl/hBjbh4NoZL3UuqMq9
+![image](https://github.com/Rudrakshrawal/Keywords/assets/144530387/08ebca98-b1f7-46a7-9f40-43a01eef23e7)
+
 
 24.. **Interpreter** - an interpreter is a computer program that directly executes instructions written in a programming or scripting language, without requiring 
                     them previously to have been compiled into a machine language program.
@@ -93,7 +94,10 @@ https://images.app.goo.gl/hBjbh4NoZL3UuqMq9
 
 28.. **Serverless** - refers to a way of building and running applications without needing to manage the underlying servers. Instead, developers focus solely on writing and deploying code. The cloud provider takes care of the infrastructure, scaling, and maintenance, allowing for faster development, automatic scaling based on demand, and cost savings because you only pay for the resources your code uses when it runs.
 
-29.. **
+29.. **RAID** - Redundant Array of Independent Discs is a data storage virtualization technology that combines multiple physical disk drive components into one or more logical units for the purposes of data redundancy, performance improvement, or both.
+- RAID 0 - **Mirroring** -
+- RAID 1 - **Slicing** -
+30.. **IOPS** - (Input Output Processing per Second)
 
 
 
