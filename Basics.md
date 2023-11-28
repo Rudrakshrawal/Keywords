@@ -82,15 +82,18 @@ https://images.app.goo.gl/hBjbh4NoZL3UuqMq9
 26.. **Iterables** - Iterable is an object which can be looped over or iterated over with the help of a for loop. Objects like lists, tuples, sets, dictionaries, strings, etc.
                      are called iterables. In short and simpler terms, iterable is anything that you can loop over.
 
-27.. **Autoscaling** - 
- -- Manual scaling -update the size of auto scaling group(ASG)
- -- dynamic scaling - 
- --- simple step scaling - when a cloudwatch is triggered(examole cpu>70%), then add 2 units
+27.. **Autoscaling**
+- Manual scaling -update the size of auto scaling group(ASG)
+- -  dynamic scaling - 
+- - - simple step scaling - when a cloudwatch is triggered(examole cpu>70%), then add 2 units
                         - when a cloudwatch is triggered(CPU<30%) then remove 1 unit 
- ---target tracking scaling - the average ASG CPU to stay around 40%
- ---scheduled scaling - anticipate a scaling based on usage pattern
+- - - target tracking scaling - the average ASG CPU to stay around 40%
+- - - scheduled scaling - anticipate a scaling based on usage pattern
                        - increase the min capacity to 10 at 5am on fridays
- -
+
+28.. **Serverless** - refers to a way of building and running applications without needing to manage the underlying servers. Instead, developers focus solely on writing and deploying code. The cloud provider takes care of the infrastructure, scaling, and maintenance, allowing for faster development, automatic scaling based on demand, and cost savings because you only pay for the resources your code uses when it runs.
+
+29.. **
 
 
 
