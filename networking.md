@@ -78,7 +78,7 @@
 -----------
 **Tools used for routing**
 - *Transit Gateway* acts as a cloud router and connects VPCs and on-premises networks through a central hub. As your network grows, the complexity of managing incremental connections doesn’t slow you down. When building global applications, you can connect multiple AWS Transit Gateways by using inter-Region peering.
-- *Route 53* is a highly available and scalable cloud DNS web service. It provides a reliable and cost-effective way for businesses and developers to route their end users to internet applications.Route 53 Traffic Flow makes it easy for you to manage traffic globally through a variety of routing types to create low-latency, fault-tolerant architectures.
+- *Route 53(DOMAIN NAME SEVICE)* is a highly available and scalable cloud DNS web service. It provides a reliable and cost-effective way for businesses and developers to route their end users to internet applications.Route 53 Traffic Flow makes it easy for you to manage traffic globally through a variety of routing types to create low-latency, fault-tolerant architectures. Simply meaning converting URL'S into IP and IP's into URL
   ![image](https://github.com/Rudrakshrawal/Keywords/assets/144530387/67a62547-15b0-43fa-992a-30aa8aea881b)
 
 # Computer Architecture Network
@@ -105,6 +105,11 @@
 ![image](https://github.com/Rudrakshrawal/Keywords/assets/144530387/cc6672a8-1224-4ad9-bd0c-a68f704b4cd2)
   - SSL Vpn(Secure Socket Layer): It allows remote users to securely access a private network by establishing an encrypted tunnel between the user’s device and the VPN server.
 ![image](https://github.com/Rudrakshrawal/Keywords/assets/144530387/2a7dcb74-b795-4743-8f38-2bcd21ecf8c6)
+
+
+# VPC
+# DIRECT CONNECT
+- A service by AWS where they connect your data centre to AWS data centre through wired connection. One of the costliest service of AWS. If a company usess this service this means that the company is in a vecdor lock in with AWS
 ----
 #EXTRAS BUT IMPORTANT
 - TPM and HSM - Trusted Platform Module (TPM) and Hardware Security Module (HSM) are both security components in cybersecurity. TPM focuses on securing the platform and ensuring system integrity, while HSM specializes in cryptographic key management and secure cryptographic operations.
