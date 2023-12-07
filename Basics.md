@@ -1,4 +1,4 @@
-1.. **ISA** - (Instruction Set Architecture or simply Computer Architecture ) In computer science, an instruction set architecture (ISA), also called computer architecture, is an abstract model of a computer.
+z1.. **ISA** - (Instruction Set Architecture or simply Computer Architecture ) In computer science, an instruction set architecture (ISA), also called computer architecture, is an abstract model of a computer.
 
 2.. **CISC** - (Complex Instruction Set Computer) The fundamental goal of CISC is that a single instruction will handle all evaluating, loading,
     and storing operations, similar to how a multiplication command will handle evaluating, loading, and storing data, which is why it’s complicated.
@@ -101,6 +101,7 @@
 - RAID 6 - RAID 6 (Striping with Dual Distributed Parity) It is a data-striping process that utilizes two disks as a backup. The data is striped in the form of blocks and is stored across multiple partitions, including the backup disks. That way, it remains accessible even after two consecutive failures.
 - RAID 10 - 
 - - - - there are two types of RAID systems, first RAID 10(4 discs required) and second RAID 01 (also 4 discs)
+
 30.. **IOPS** - (Input Output Processing per Second)
 
 40.. **Redundancy** - a system design in which a component is duplicated so if it fails there will be a backup.
@@ -134,6 +135,55 @@
 
 51.. **IAM SERVICES**-Identity and Access Management (IAM) is a web service that helps you securely control access to AWS resources. With IAM, you can centrally manage permissions that control which AWS resources users can access.
 
+52..**Web Sockets**- a computer communications protocol, providing simultaneous two-way communication channels over a single Transmission Control Protocol (TCP) connection.
+![image](https://github.com/Rudrakshrawal/Keywords/assets/144530387/9a317849-d559-45fe-81e4-e139f4a9a68c)
+
+53..**SSL(SECURE SOCKET LAYER)**-an encryption-based Internet security protocol.a security protocol that creates an encrypted link between a web server and a web browser. Companies and organizations need to add SSL certificates to their websites to secure online transactions and keep customer information private and secure.[HACKING]
+
+54..**TSL(TRANSPORT SECURITY LAYER)**-
+
+55.. **Network Port**- A network port is a process-specific or an application-specific software construct serving as a communication endpoint, which is used by the Transport Layer protocols of Internet Protocol suite, such as User Diagram Protocol (UDP) and Transmission Control Protocol (TCP).
+- 20, 21: FTP (File Transfer Protocol)
+- 22: SSH (Secure Shell)
+- 23: Telnet
+- 25: SMTP (Simple Mail Transfer Protocol)
+- 53: DNS (Domain Name System)
+- 80: HTTP (Hypertext Transfer Protocol)
+- 110: POP3 (Post Office Protocol version 3)
+- 143: IMAP (Internet Message Access Protocol)
+- 443: HTTPS (HTTP Secure)
+- 3306: MySQL Database
+
+56.. **RDP**-(Remote dESKTOP protocol)RDP stands for Remote Desktop Protocol. It's a proprietary protocol developed by Microsoft that enables users to remotely access and control a computer over a network connection.With RDP, a user can log into a remote computer from another location as if they were sitting in front of it
+
+57..**Instance Store**-An instance store provides temporary block-level storage for your instance. This storage is located on disks that are physically attached to the host computer. Instance store is ideal for temporary storage of information that changes frequently, such as buffers, caches, scratch data, and other temporary content. 
+
+58.. **Virtual Hosting**-Virtual hosting is a method for hosting multiple domain names (with separate handling of each name) on a single server (or pool of servers). This allows one server to share its resources, such as memory and processor cycles, without requiring all services provided to use the same host name.
+![image](https://github.com/Rudrakshrawal/Keywords/assets/144530387/91e912ce-9033-4c09-bf31-b3e47a327646)
+
+59..**Reverse Proxy**- a server that sits in front of web servers and forwards client (e.g. web browser) requests to those web servers. Reverse proxies are typically implemented to help increase security, performance, and reliability.
+
+60..**NGINX**- Nginx is a web server that can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache.
+
+61..**Load Balancing**-Load balancing refers to efficiently distributing incoming network traffic across a group of backend servers, also known as a server farm or server pool.
+Different load balancing algorithms provide different benefits; the choice of load balancing method depends on your needs:
+
+- **Round Robin – Requests are distributed across the group of servers sequentially.*
+
+- **Least Connections – A new request is sent to the server with the fewest current connections to clients. The relative computing capacity of each server is factored into determining which one has the least connections.*
+
+- **Least Time – Sends requests to the server selected by a formula that combines the fastest response time and fewest active connections.*
+
+- **Hash – Distributes requests based on a key you define, such as the client IP address or the request URL.*
+
+- **IP Hash – The IP address of the client is used to determine which server receives the request.*
+
+- **Random with Two Choices – Picks two servers at random and sends the request to the
+one that is selected by then applying the Least Connections algorithm.*
+
+61.. **End To End Encryption**- End-to-end encryption is a security method that keeps your communications secure. With end-to-end encryption, no one, including Google and third parties, can read eligible messages as they travel between your phone and the phone you message.
+
+62.. **OSI Layers(open System Intercommunication)**- a conceptual framework used to describe the functions of a networking system.
 
 
 
