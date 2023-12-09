@@ -185,6 +185,9 @@ one that is selected by then applying the Least Connections algorithm.*
 
 62.. **OSI Layers(open System Intercommunication)**- a conceptual framework used to describe the functions of a networking system.
 
+63..**Daemons**- Daemons are processes that run unattended. They are constantly in the background and are available at all times. Daemons are usually started when the system starts, and they run until the system stops. A daemon process typically performs system services and is available at all times to more than one task or user.
+
+
 
 
 
