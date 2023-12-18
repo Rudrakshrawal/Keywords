@@ -187,6 +187,23 @@ one that is selected by then applying the Least Connections algorithm.*
 
 63..**Daemons**- Daemons are processes that run unattended. They are constantly in the background and are available at all times. Daemons are usually started when the system starts, and they run until the system stops. A daemon process typically performs system services and is available at all times to more than one task or user.
 
+64.. 
+# Process of a simple func as r=1+1 \n print(r)
+
+   1) **Tokenization**- 
+     - a) {In Python}Python tokenization basically refers to splitting up a larger body of text into smaller lines, words or even creating words for a non-English language
+     - b) {In Blockchain}Tokenization is the process of replacing sensitive data with unique identification symbols that retain all the essential information about the data without compromising its security.
+
+   2)**CST(concrete syntax tree)** -
+
+   3)**AST(abstract syntax tree)** -
+
+
+![image](https://github.com/Rudrakshrawal/Keywords/assets/144530387/f2c4dcba-4584-4d0d-a129-b60510cca972)
+
+   4)**Type deduction**- 
+
+   5)**Bytecode**-After the conversion into bytes the python virtual machine gives the result.
 
 
 
